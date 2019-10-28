@@ -1,0 +1,8 @@
+name: RezxisCTF
+main: net.rezxis.ctf.CTFMain
+version: 0.1
+commands:
+  team:
+    description: A command for RezxisCTF.
+  test:
+    description: A command for RezxisCTF.
